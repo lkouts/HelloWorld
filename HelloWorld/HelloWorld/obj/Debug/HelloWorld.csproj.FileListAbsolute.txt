@@ -1,0 +1,5 @@
+C:\GITLABS\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\GITLABS\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\GITLABS\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\GITLABS\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\GITLABS\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
