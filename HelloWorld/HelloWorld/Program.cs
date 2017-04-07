@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Press any key to exit");
+            Console.WriteLine("Press any key to exit Change 2");
             var exit = Console.ReadLine();
 
             Console.WriteLine(exit);
